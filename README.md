@@ -5,3 +5,7 @@ Columns in summary: "Ilość osób" - workers per shift, "Ilość godzin" - how 
 
 
 ![image](https://github.com/user-attachments/assets/371ed0ad-27ff-4a85-8c82-973044145249)
+
+
+
+I used pyinstaller to create a desktop application. 
